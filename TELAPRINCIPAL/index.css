@@ -1,0 +1,70 @@
+body{
+    color: white;
+    /* background-image: linear-gradient(#008080 ,#316453,#008080); */
+    /* background-image: linear-gradient(#4C3A51 ,#563f96,#4C3A51); */
+    background-image: linear-gradient(#563f96 ,#563f96,#1c0c47);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#conteiner{
+
+    height: 100%;
+
+}
+
+ul{
+    display: flex;
+    justify-content:space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    background-image: linear-gradient(#1c0c47, #1c0c47, #563f96);
+    
+}
+
+
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 100;
+    font-size:medium;
+    font-weight:bolder;
+}
+
+img{
+    height: 350px;
+    padding-bottom:100px;
+    
+}
+
+
+.center{
+    text-align: center;
+    
+
+}
+
+h1{
+    color: #ffffff;
+    font-size: 50px;
+}
+
+
+h3{
+    color: #b77aff;
+    font-size: 40px;
+}
+#divimgCanto{
+
+    background-color: aliceblue;
+    height: 80%;
+    width: 80%;
+}
+
+.spc{
+    padding-left: 65px;
+    padding-top: 20px;
+
+
+}
